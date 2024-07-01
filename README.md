@@ -6,4 +6,4 @@ This project aims to develop a predictive model to identify patients at risk of 
 # Dataset
 The dataset used in this project is the Diabetes 130-US Hospitals for Years 1999-2008 dataset. It includes over 100,000 instances of diabetic patient encounters spanning 10 years from 130 US hospitals. Key features include patient demographics, diagnoses, laboratory results, medications, and readmission status.
 
-Download Link: UCI Machine Learning Repository - Diabetes 130-US Hospitals for Years 1999-2008 Dataset
+**Dataset Source**: [UCI Machine Learning Repository - Diabetes 130-US Hospitals for Years 1999-2008 Dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+Hospitals+for+Years+1999-2008)
